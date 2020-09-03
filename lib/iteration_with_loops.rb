@@ -19,4 +19,3 @@ def join_nested_strings(src)
  min_num
 end
   
-end
